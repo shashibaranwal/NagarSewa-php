@@ -17,6 +17,22 @@ NagarSewa (नगर सेवा) is a web-based civic issue reporting platform
 
 ---
 
+## 🖼️ Screenshots
+
+### 🔑 Authentication (Login & Registration)
+![Login Page](public/UI/login.png)
+
+![Registration Page](public/UI/registration.png)
+
+### 📋 Complaint Registration
+![File Complaint](public/UI/complaint.png)
+
+
+### 📊 User Dashboard
+![User Dashboard](public/UI/dashboard.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer        | Technology          |
